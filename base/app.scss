@@ -1,0 +1,8 @@
+@import "./items/slide1.scss";
+@import "./items/slide2.scss";
+body{
+    display: block flex;
+    flex-flow: row;
+    overflow-x: hidden;
+    max-width: 100%;
+}
